@@ -1,11 +1,3 @@
-\\\
-var allBrowsers = [browsers.windows.edge,
-                   browsers.windows.firefox,
-                   browsers.osx.chrome,
-                   browsers.osx.safari];
-run.setPlatforms(allBrowsers);
-\\\
-
 ### Account creation
     Ensure that a user is able to successfully create an account.
 

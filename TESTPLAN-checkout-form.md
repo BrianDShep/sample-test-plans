@@ -1,11 +1,3 @@
-\\\
-var allBrowsers = [browsers.windows.edge,
-                   browsers.windows.firefox,
-                   browsers.osx.chrome,
-                   browsers.osx.safari];
-run.setPlatforms(allBrowsers);
-\\\
-
 ### Checkout form
 Ensure that a user can select a product and checkout successfully.
 
