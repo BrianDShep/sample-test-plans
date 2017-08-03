@@ -1,5 +1,7 @@
+# Account test plan
+
 ### Account creation
-    Ensure that a user is able to successfully create an account.
+Ensure that a user is able to successfully create an account.
 
 Steps for each account creation:
 1. Restart your dev environment

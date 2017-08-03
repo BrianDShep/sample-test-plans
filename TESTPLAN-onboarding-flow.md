@@ -1,13 +1,14 @@
-## Onboarding flow
-### Sign up form page
+# Onboarding test plan
 
+## Onboarding flow
+
+### Sign up form page
 Verify:
 - [ ] Email address should be empty.
 - [ ] Password must be 6 characters min.
 - [ ] User receives Scrimmage welcome email.
 
 ### Authorize with Slack page
-
 Verify:
 - [ ] Able to successfully authorize with Slack.
 - [ ] Denying authorization takes you to the Unable to auth page.
